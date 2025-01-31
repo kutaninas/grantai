@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.9
+python-dotenv==1.0.1
+textract==1.6.5
+scikit-learn==1.4.1.post1
+numpy==1.26.4
+openai==1.12.0
+scikit-learn=1.6.1
